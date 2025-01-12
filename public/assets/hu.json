@@ -1,0 +1,28 @@
+{
+  "name":"shop",
+  "nyelv":[
+    {"text":"Magyar", "sign":"hu"},
+    {"text":"English", "sign":"en"}
+  ],
+  "menu":[
+    {"text":"FőoLdal", "link":"home"}
+  ],
+  "title":"termék lista",
+  "title2":"új termék hozzáadása",
+  "title3":"név",
+  "title4":"kategória",
+  "title5":"leírás",
+  "title6":"ár",
+  "title7":"hozzáadás",
+  "title8":"termék szerkesztése",
+  "title9":"név",
+  "title10":"kategória",
+  "title11":"leírás",
+  "title12":"ár",
+  "title13":"mentés",
+  "title14":"szerkeztés",
+  "title15":"törlés"
+
+}
+
+  

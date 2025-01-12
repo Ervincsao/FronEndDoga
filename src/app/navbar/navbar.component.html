@@ -1,0 +1,10 @@
+<nav class="navbar navbar-light bg-light">
+    <form *ngFor="let item of menuItems" class="container-fluid justify-content-start">
+      <button [routerLink]="item.link" class="btn btn-outline-success me-2" type="button">{{item.text}}</button>
+    </form>
+    <ul>
+        <li *ngFor="let lang of nyelvValasztek">
+            <a (click)="langChange(lang)">{{lang.text}}</a>
+        </li>
+    </ul>
+  </nav>

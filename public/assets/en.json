@@ -1,0 +1,27 @@
+{
+  "name":"shop",
+  "nyelv":[
+    {"text":"Magyar", "sign":"hu"},
+    {"text":"English", "sign":"en"} 
+  ],
+  "menu":[
+    {"text":"FőoLdal", "link":"home"}
+  ],
+  "title":"products list",
+  "title2":"add new product",
+  "title3":"name",
+  "title4":"category",
+  "title5":"description",
+  "title6":"price",
+  "title7":"addition",
+  "title8":"edit product",
+  "title9":"name",
+  "title10":"category",
+  "title11":"description",
+  "title12":"price",
+  "title13":"save",
+  "title14":"editing",
+  "title15":"delete"
+}
+
+  

@@ -33,6 +33,7 @@ export class HomeComponent implements OnInit {
   title13 = "";
   title14 = "";
   title15 = "";
+  title16 = "";
 
   constructor(private productsService: ProductsService, private config: ConfigService) {
     config.getContent().subscribe(
@@ -52,6 +53,7 @@ export class HomeComponent implements OnInit {
         this.title13=content.title13
         this.title14=content.title14
         this.title15=content.title15
+        this.title16=content.title16
 
         console.log("Menü Items:", content)
       }
